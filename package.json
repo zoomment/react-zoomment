@@ -1,6 +1,6 @@
 {
   "name": "react-zoomment",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "react-zoomment: A comprehensive React-based commenting widget, encapsulating advanced features such as Gravatar integration, theme customization, multi-lingual support, and reactions. Designed for seamless integration into React projects, this open-source library facilitates the creation of dynamic, engaging comment sections with enhanced privacy controls. Ideal for developers seeking to elevate web interaction within their React applications.",
   "main": "dist/Zoomment.js",
   "types": "dist/Zoomment.d.ts",
