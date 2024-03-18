@@ -1,6 +1,6 @@
 # Welcome to Zoomment
 
-Zoomment is an innovative, open-source commenting platform designed to transform your website into a vibrant community hub. With features like customizable themes, real-time notifications, RSS feed integration, and expressive emoji reactions, Zoomment makes it simple to foster engaging discussions and connect with your audience on a deeper level.
+Zoomment is an innovative, open-source commenting platform designed to transform your website into a vibrant community hub. With features like customizable themes, real-time notifications, and expressive emoji reactions, Zoomment makes it simple to foster engaging discussions and connect with your audience on a deeper level.
 
 <img width="688" alt="Zoomment preview" src="https://raw.githubusercontent.com/zoomment/.github/main/zoomment-preview.png">
 
@@ -37,6 +37,8 @@ Zoomment is designed to be highly customizable, allowing you to tailor the comme
 | language       | en, hy, hyw, ru, zh                                            |
 | emotions       | list comma separated emojis, leave empty if not needed         |
 | gravatar       | 404, mp, identicon, monsterid, wavatar, retro, robohash, blank |
+
+[A Guide to Zoomment Widget Configuration](https://zoomment.com/blog/guide-zoomment-widget-configuration)
 
 ## Contribute to Zoomment
 
