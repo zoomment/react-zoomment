@@ -1,0 +1,44 @@
+{
+  "name": "react-zoomment",
+  "version": "1.0.5",
+  "description": "react-zoomment: A comprehensive React-based commenting widget, encapsulating advanced features such as Gravatar integration, theme customization, multi-lingual support, and reactions. Designed for seamless integration into React projects, this open-source library facilitates the creation of dynamic, engaging comment sections with enhanced privacy controls. Ideal for developers seeking to elevate web interaction within their React applications.",
+  "main": "dist/Zoomment.js",
+  "types": "dist/Zoomment.d.ts",
+  "scripts": {
+    "build": "babel src --extensions '.ts,.tsx' --out-dir dist --copy-files",
+    "build:types": "tsc --emitDeclarationOnly"
+  },
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://zoomment.com",
+  "funding": {
+    "type": "individual",
+    "url": "https://https://zoomment.com/donate"
+  },
+  "keywords": [
+    "comment",
+    "comments",
+    "zoomment",
+    "open source",
+    "self-hosted",
+    "comment widget",
+    "free comment widget",
+    "comments for static website"
+  ],
+  "author": "Tigran Simonyan",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.23.9",
+    "@babel/core": "^7.24.0",
+    "@babel/preset-env": "^7.24.0",
+    "@babel/preset-react": "^7.23.3",
+    "@babel/preset-typescript": "^7.23.3",
+    "@types/react": "^18.2.67",
+    "typescript": "^5.4.2"
+  },
+  "peerDependencies": {
+    "react": "^17.0.0 || ^18.0.0",
+    "react-dom": "^17.0.0 || ^18.0.0"
+  }
+}
