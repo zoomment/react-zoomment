@@ -12,6 +12,10 @@
     "dist"
   ],
   "homepage": "https://zoomment.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zoomment/react-zoomment.git"
+  },
   "funding": {
     "type": "individual",
     "url": "https://https://zoomment.com/donate"
